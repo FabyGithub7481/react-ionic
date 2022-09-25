@@ -1,0 +1,7 @@
+{
+  "name": "curso-react-ionic-lm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
